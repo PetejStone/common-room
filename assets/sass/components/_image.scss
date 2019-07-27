@@ -51,3 +51,16 @@
 			}
 		}
 	}
+
+	.logodiv {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		width: fit-content;
+		height: 100%;
+
+	}
+	.crlogo {
+		width: auto;
+		height: 35px;
+	}

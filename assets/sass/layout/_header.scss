@@ -12,17 +12,18 @@
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: transparentize(_palette(bg), 0.05);
+		background: #231F20;
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
 
 		h1 {
 			position: absolute;
-			left: 1em;
+			left: 7em;
 			top: 0;
 			height: 3em;
 			line-height: 3em;
+			color: #fff;
 			cursor: default;
 
 			a {
@@ -47,7 +48,7 @@
 
 					a {
 						display: block;
-						color: inherit;
+						color: #fff;
 						text-decoration: none;
 						height: 3em;
 						line-height: 3em;
@@ -64,7 +65,8 @@
 
 			h1 {
 				text-align: center;
-				position: relative;
+				position: absolute;
+				width: 100%;
 				left: 0;
 				top: 0;
 				height: 2.5em;
