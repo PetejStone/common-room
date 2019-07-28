@@ -1628,4 +1628,10 @@ body {
     #contact .box {
       padding: 1em 1em 2em 1em; } }
 
+#give {
+  background: url("../../images/plantinhand.jpg");
+  background-size: cover;
+  background-attachment: fixed, fixed;
+  background-position: center; }
+
 /*# sourceMappingURL=main.css.map */

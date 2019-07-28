@@ -1,4 +1,7 @@
 <?php
-    mail('youremail@example.com', $_POST['name'], $_POST['email'], $_POST['message']);
+    mail('markemchugh@gmail.com', $_POST['name'], $_POST['email'], $_POST['message']);
 ?>
-<p>Your email has been sent.</p>
+<script>
+    alert("Thanks for reaching out! We got your message!")
+    location.replace("http://www.thecommonroom360.com")
+</script>
