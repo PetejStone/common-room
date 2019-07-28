@@ -1593,14 +1593,14 @@ body {
   background: url("../../images/bible-grass.jpg");
   background-size: cover;
   background-attachment: fixed, fixed;
-  background-position: top left, center center; }
+  background-position: center; }
 
 /* Two */
 #two {
   background: url("../../images/TheCommonRoom-2.jpg");
   background-size: cover;
   background-attachment: fixed, fixed;
-  background-position: top left, center center; }
+  background-position: center; }
 
 /* Contact */
 #contact {
