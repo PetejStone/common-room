@@ -1582,7 +1582,7 @@ body {
 
 /* Intro */
 #intro {
-  background: url("../../images/worshipteam.jpg");
+  background: url("../../images/TheCommonRoom-9.jpg");
   background-size: cover;
   background-attachment: fixed, fixed;
   background-position: center;
@@ -1597,7 +1597,7 @@ body {
 
 /* Two */
 #two {
-  background: url("../../images/worshipteamtwo.jpg");
+  background: url("../../images/TheCommonRoom-2.jpg");
   background-size: cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
