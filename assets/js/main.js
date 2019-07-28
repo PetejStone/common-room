@@ -218,6 +218,8 @@
 
 })(jQuery);
 
-
-					//e.preventDefault()
+//easy tithe
+function easyTithe() {
+	window.open("https://forms.ministryforms.net/embed.aspx?formId=f0fef675-44e7-414d-b4ce-47c2a0095623&custom-templates=");
+}
 	
