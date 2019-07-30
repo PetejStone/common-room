@@ -3,5 +3,5 @@
 ?>
 <script>
     alert("Thanks for reaching out! We got your message!")
-    location.replace("http://www.thecommonroom360.com")
+    location.replace("http://www.commonroom360.com")
 </script>

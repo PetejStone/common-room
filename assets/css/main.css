@@ -409,7 +409,8 @@ a {
   -webkit-transition: color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out;
-  color: #98c593; }
+  color: #98c593;
+  text-decoration: none; }
 
 sub {
   position: relative;
@@ -1553,7 +1554,7 @@ body {
     margin: 0; }
     #footer ul.menu li {
       border-left-color: rgba(185, 186, 187, 0.2);
-      font-size: 0.9em; }
+      font-size: 0.65em; }
   @media screen and (max-width: 1000px) {
     #footer {
       -moz-flex-direction: column;
